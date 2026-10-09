@@ -50,13 +50,13 @@ AgriCircle uses Flutter for the frontend and Firebase for backend services.
 ## 📸 Screenshots
 
 
-<img width="377" height="795" alt="image" src="https://github.com/user-attachments/assets/7e7c3f7c-5e21-4a20-9669-61659f4a1d88" />
-<img width="365" height="799" alt="image" src="https://github.com/user-attachments/assets/bd4df083-2cdb-4a1a-8c9d-d1bd90fccfa3" />
-<img width="296" height="664" alt="image" src="https://github.com/user-attachments/assets/eebd712b-2722-4c61-ad63-4bdbf3aa89df" />
-<img width="313" height="658" alt="image" src="https://github.com/user-attachments/assets/f0d4a75f-59c7-4163-983d-9bf5c51c08c9" />
-<img width="304" height="652" alt="image" src="https://github.com/user-attachments/assets/145297ca-3fa1-4b60-b5df-7ba151828d3b" />
-<img width="384" height="784" alt="image" src="https://github.com/user-attachments/assets/5f7549e5-6124-4ae6-bd58-3217f61deab7" />
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c31e95f-1306-4aa3-92b5-4d4561fc00bb" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/7e7c3f7c-5e21-4a20-9669-61659f4a1d88" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/bd4df083-2cdb-4a1a-8c9d-d1bd90fccfa3" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/eebd712b-2722-4c61-ad63-4bdbf3aa89df" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/f0d4a75f-59c7-4163-983d-9bf5c51c08c9" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/145297ca-3fa1-4b60-b5df-7ba151828d3b" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/5f7549e5-6124-4ae6-bd58-3217f61deab7" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/5c31e95f-1306-4aa3-92b5-4d4561fc00bb" />
 
 
 
